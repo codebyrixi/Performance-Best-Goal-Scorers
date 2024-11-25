@@ -55,7 +55,7 @@ Isi dashboard ini meliputi:
 2. Diagram Pai Top 6 Representasi Negara
 3. Hubungan antara Jumlah Penampilan (Caps) dan Gol  Top 10 Pemain
 4. Diagram Batang Total Goals berdasarkan Konfederasi
-![image](https://github.com/user-attachments/assets/78bd553c-708a-4b46-b59b-cdd34615e23f)
+![image](https://github.com/user-attachments/assets/78bd553c-708a-4b46-b59b-cdd34615e23f)<br>
 Berikut adalah insight yang dapat diambil dari masing-masing visualisasi pada dashboard:
 1. **Top 5 Players by Total Goals (Bar Chart)**  
    - **Insight:** Sunil Chhetri memimpin dengan total 94 gol, diikuti oleh Mokhtar Dahari (89 gol) dan Ali Mabkhout (85 gol). Ini menunjukkan dominasi pemain dari berbagai negara yang mungkin memiliki tingkat konsistensi tinggi dalam mencetak gol selama karier internasional mereka.
