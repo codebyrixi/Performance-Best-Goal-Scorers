@@ -56,3 +56,14 @@ Isi dashboard ini meliputi:
 3. Hubungan antara Jumlah Penampilan (Caps) dan Gol  Top 10 Pemain
 4. Diagram Batang Total Goals berdasarkan Konfederasi
 ![image](https://github.com/user-attachments/assets/78bd553c-708a-4b46-b59b-cdd34615e23f)
+Berikut adalah insight yang dapat diambil dari masing-masing visualisasi pada dashboard:
+1. **Top 5 Players by Total Goals (Bar Chart)**  
+   - **Insight:** Sunil Chhetri memimpin dengan total 94 gol, diikuti oleh Mokhtar Dahari (89 gol) dan Ali Mabkhout (85 gol). Ini menunjukkan dominasi pemain dari berbagai negara yang mungkin memiliki tingkat konsistensi tinggi dalam mencetak gol selama karier internasional mereka.
+2. **Top 5 Nation's Representation (Pie Chart)**  
+   - **Insight:** Negara dengan jumlah pemain terbanyak di antara pencetak gol teratas adalah Brasil dengan 4 pemain (21,05%), sementara negara seperti Iran, Irak, Kuwait, dan Korea Selatan masing-masing menyumbang 3 pemain (15,79%). Ini menggambarkan peran signifikan negara-negara tertentu dalam memproduksi pemain berbakat di sepak bola internasional.
+3. **Goals vs Caps (Bubble Chart)**  
+   - **Insight:** Pemain dengan jumlah gol tinggi cenderung memiliki jumlah caps yang besar, tetapi ada variasi efisiensi di antara pemain. Misalnya, pemain tertentu mungkin mencetak gol lebih banyak meskipun jumlah pertandingan mereka lebih sedikit, menunjukkan tingkat produktivitas yang tinggi.
+4. **Total Goals by Confederation (Bar Chart)**  
+   - **Insight:** Konfederasi AFC memiliki jumlah total gol terbanyak (1.853 gol), diikuti oleh UEFA (1.098 gol). Konfederasi seperti CONMEBOL dan CAF memiliki kontribusi yang lebih kecil. Hal ini mengindikasikan perbedaan produktivitas pemain di tingkat konfederasi, kemungkinan dipengaruhi oleh jumlah pertandingan atau tingkat kompetisi.
+
+Melalui visualisasi ini, berbagai dimensi kinerja dapat diungkap, mulai dari kontribusi individu pemain hingga analisis regional melalui konfederasi dan negara. Data ini bisa dimanfaatkan untuk analisis tren performa atau strategi pengembangan sepak bola di berbagai wilayah.
