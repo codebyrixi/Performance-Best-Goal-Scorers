@@ -40,7 +40,10 @@ Berikut adalah metriks bisnis dari penelitian ini:
 | `Career Span Last` | Waktu karirnya berakhir. |
 | `Date of 50th Goal` | Tanggal mencapai 50 gol. |
 
-## Bagian 2: EDA (Eksploratori Analisis Data)
-![image](https://github.com/user-attachments/assets/b3f5e2cf-3a0d-495d-a1da-348ea322321a)
-**Deskripsi Data**<br>
-![image](https://github.com/user-attachments/assets/308d6346-254d-46bf-ad5b-409126d760c6)
+## Bagian 2: Data Cleaning and Preprocessing
+| Jenis Anomali Data | Temuan | Jenis Anomali Data | Temuan |
+|---|---|---|---|
+| Data Duplikat | Tidak ada | Integrasi Data | Tidak ada |
+| Data Hilang (Missing) | Ada | Data Inkonsisten | Tidak ada |
+| Standar Format Data | Tidak ada | Outlier (Pencilan) | Ada |
+Dari tabel diatas, hanya ada dua hal yang dilakukan pada tahapan ini, yaitu _handling missing value_ dan _handling outliers_.
