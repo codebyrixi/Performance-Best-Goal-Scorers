@@ -7,7 +7,7 @@ Proyek ini menganalisis performa pencetak gol terbaik dalam sepak bola internasi
 - Visualisasi Data
 - Kesimpulan
 
-## Bagian 1: Gambaan Umum
+## Bagian 1: Gambaran Umum
 **Latar Belakang**<br>
 Sepak bola internasional adalah salah satu olahraga paling populer di dunia, dengan pemain-pemain legendaris yang meninggalkan jejak melalui pencapaian luar biasa, seperti mencetak lebih dari 50 gol internasional. Rekor ini mencerminkan tidak hanya kehebatan individu, tetapi juga kontribusi mereka terhadap kesuksesan tim nasional mereka. Dengan menganalisis performa para pemain ini, kita dapat memperoleh wawasan yang berharga tentang pola pencapaian, evolusi performa, serta dampak mereka terhadap perkembangan sepak bola global.
 
@@ -38,7 +38,9 @@ Berikut adalah metriks bisnis dari penelitian ini:
 | `Goals per Match` | Rata-rata gol per pertandingan. |
 | `Career Span Begin` | Waktu awal berkarir. |
 | `Career Span Last` | Waktu karirnya berakhir. |
-| `Date of 50tg Goal` | Tanggal mencapai 50 gol. |
+| `Date of 50th Goal` | Tanggal mencapai 50 gol. |
 
 ## Bagian 2: EDA (Eksploratori Analisis Data)
+![image](https://github.com/user-attachments/assets/b3f5e2cf-3a0d-495d-a1da-348ea322321a)
 **Deskripsi Data**<br>
+![image](https://github.com/user-attachments/assets/308d6346-254d-46bf-ad5b-409126d760c6)
