@@ -49,3 +49,10 @@ Dari tabel dibawah, hanya ada dua hal yang dilakukan pada tahapan ini, yaitu _ha
 | Standar Format Data | Tidak ada | Outlier (Pencilan) | Ada |
 
 ## Bagian 3: Visualisasi Data
+Dashboard ini adalah Performance Analysis of Top Scorers in International Football Dashboard yang dibuat menggunakan PowerBI, dapat dilihat pada slide selanjutnya. Tujuan dari dashboard ini yaitu untuk memberikan pemahaman mendalam tentang kontribusi pemain dan konfederasi di kancah sepak bola internasional. Dashboard ini membantu penggemar sepak bola untuk mengenali pemain dan wilayah paling produktif, sementara pelatih atau tim dapat menggunakan data ini untuk memahami tren efisiensi dan kinerja pemain.<br>
+Isi dashboard ini meliputi:
+1. Diagram Batang Top 5 Pemain Berdasarkan Total Goals
+2. Diagram Pai Top 6 Representasi Negara
+3. Hubungan antara Jumlah Penampilan (Caps) dan Gol  Top 10 Pemain
+4. Diagram Batang Total Goals berdasarkan Konfederasi
+![image](https://github.com/user-attachments/assets/78bd553c-708a-4b46-b59b-cdd34615e23f)
