@@ -3,7 +3,7 @@ Proyek ini menganalisis performa pencetak gol terbaik dalam sepak bola internasi
 
 ## Daftar Isi
 - Latar Belakang
-- EDA (_Eksploratori Analisis Data_)
+- EDA (Eksploratori Analisis Data)
 - Visualisasi Data
 - Kesimpulan
 
@@ -24,7 +24,7 @@ Berikut adalah metriks bisnis dari penelitian ini:
 2._ Total Goals Scored_: Jumlah keseluruhan gol yang mencerminkan performa dan kontribusi pemain.
 3. _Career Longevity_: Rentang waktu karir internasional yang menunjukkan konsistensi performa pemain.
 4. _Nation's Representation_: Jumlah pemain dari masing-masing negara, mencerminkan tingkat pengembangan dan dominasi sepak bola negara tersebut.
-5. _Timeline of 50th Goal Achievemen_t: Waktu yang diperlukan pemain untuk mencapai milestone 50 gol, sebagai indikator percepatan performa.
+5. _Timeline of 50th Goal Achievement_: Waktu yang diperlukan pemain untuk mencapai milestone 50 gol, sebagai indikator percepatan performa.
 
 **Deskripsi Fitur**<br>
 | Fitur | Deskripsi |
@@ -39,3 +39,6 @@ Berikut adalah metriks bisnis dari penelitian ini:
 | `Career Span Begin` | Waktu awal berkarir. |
 | `Career Span Last` | Waktu karirnya berakhir. |
 | `Date of 50tg Goal` | Tanggal mencapai 50 gol. |
+
+## Bagian 2: EDA (Eksploratori Analisis Data)
+**Deskripsi Data**<br>
