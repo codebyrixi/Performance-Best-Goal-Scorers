@@ -3,7 +3,7 @@ Proyek ini menganalisis performa pencetak gol terbaik dalam sepak bola internasi
 
 ## Daftar Isi
 - Latar Belakang
-- EDA (Eksploratori Analisis Data)
+- Data Cleaning and Preprocessing
 - Visualisasi Data
 - Kesimpulan
 
@@ -41,9 +41,11 @@ Berikut adalah metriks bisnis dari penelitian ini:
 | `Date of 50th Goal` | Tanggal mencapai 50 gol. |
 
 ## Bagian 2: Data Cleaning and Preprocessing
+Dari tabel dibawah, hanya ada dua hal yang dilakukan pada tahapan ini, yaitu _handling missing value_ dan _handling outliers_. Namun _handling missing value_ tidak dilakukan karena jika dilihat pada tabel sample sebelumnya, terlihat bahwa beberapa pemain memiliki _career span begin_ yang tidak diketahui. Oleh karena itu, hal ini masih dapat diwajari dan tidak seharusnya dihapus. Oleh karena itu, pada tahapan ini hanya akan dilakukan penanganan _outlier_ (pencilan).
 | Jenis Anomali Data | Temuan | Jenis Anomali Data | Temuan |
 |---|---|---|---|
 | Data Duplikat | Tidak ada | Integrasi Data | Tidak ada |
 | Data Hilang (Missing) | Ada | Data Inkonsisten | Tidak ada |
 | Standar Format Data | Tidak ada | Outlier (Pencilan) | Ada |
-Dari tabel diatas, hanya ada dua hal yang dilakukan pada tahapan ini, yaitu _handling missing value_ dan _handling outliers_.
+
+## Bagian 3: Visualisasi Data
